@@ -1,2 +1,2 @@
 # learningC
-Will learn the depths of C, and keep it updated in this repo
+Will learn the basics of C, and keep it updated in this repo
